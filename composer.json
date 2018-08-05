@@ -2,7 +2,7 @@
     "name": "codemancompany/laravel-mercadopago",
     "description": "MercadoPago SDK v0.5.3 module for Payments integration.",
     "keywords": [ "laravel", "mercadopago", "sdk" ],
-    "license": "GPL",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Codeman Company",
