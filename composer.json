@@ -1,0 +1,20 @@
+{
+    "name": "codemancompany/laravel-mercadopago",
+    "description": "MercadoPago SDK module for Payments integration.",
+    "keywords": [ "laravel", "mercadopago", "sdk" ],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Codeman Company",
+            "email": "info@codeman.company"
+        }
+    ],
+    "require": {
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodemanCompany\\LaravelMercadoPago\\" : "src/"
+        }
+    }
+}
