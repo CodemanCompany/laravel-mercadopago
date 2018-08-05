@@ -1,5 +1,5 @@
 {
-    "name": "codemancompany/laravel-mercadopago",
+    "name": "tavo962/laravel-mercadopago",
     "description": "MercadoPago SDK module for Payments integration.",
     "keywords": [ "laravel", "mercadopago", "sdk" ],
     "license": "GPL-3.0",
