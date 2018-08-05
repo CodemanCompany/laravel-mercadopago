@@ -32,6 +32,6 @@ class MercadoPagoServiceProvider extends ServiceProvider {
 				return new MP( $this -> mp_app_access_token );
 			};
 
-		$this -> app -> singleton( 'MP',  );
+		$this -> app -> singleton( 'MP', $function );
 	}	// end method
 }	// end class
